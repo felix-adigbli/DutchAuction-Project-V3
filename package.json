@@ -1,0 +1,26 @@
+{
+  "name": "dutchauction-project-v3",
+  "version": "1.0.0",
+  "description": "Dutch Action project v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "Dutch Auction"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felix-adigbli/DutchAuction-Project-V3.git"
+  },
+  "keywords": [
+    "ERC20"
+  ],
+  "author": "Felix Adigbli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felix-adigbli/DutchAuction-Project-V3/issues"
+  },
+  "homepage": "https://github.com/felix-adigbli/DutchAuction-Project-V3#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.15.0"
+  }
+}
